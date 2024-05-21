@@ -5,5 +5,5 @@
 # Project Name: Owl Store
 # Description: An online Store for various products.
 # Project created by: Jean Henrry Gonzáles Rodríguez.
-# ************ ◈◈◈◈◈◈ ************
+# ************** ◈◈◈◈◈◈ **************
 # ~~~~~ Tunometecabrasaramambiche ~~~~~
