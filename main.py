@@ -1,0 +1,2 @@
+# Mostrar Salida
+print("Tunometecabrasaramambiche")
